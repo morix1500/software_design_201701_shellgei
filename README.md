@@ -1,0 +1,2 @@
+# software_design_201701_shellgei
+2017年1月号のSoftware Designのシェル30本ノック
